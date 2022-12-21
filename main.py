@@ -32,7 +32,7 @@ def tweet_missing_days():
 
 def main():
     
-    schedule.every().day.at("11:47:00").do(tweet_missing_days)
+    schedule.every().day.at("14:00:00").do(tweet_missing_days)
 
     while True:
         schedule.run_pending()
