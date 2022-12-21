@@ -2,7 +2,6 @@ import tweepy
 import os
 from dotenv import load_dotenv
 import schedule
-import time
 import datetime
 
 # load environment variables
