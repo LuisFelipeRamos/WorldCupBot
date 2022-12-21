@@ -1,0 +1,6 @@
+tweepy
+numpy
+pandas
+matplotlib
+python-dotenv
+schedule
